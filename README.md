@@ -3,6 +3,7 @@
 CS + Human-Centered Engineering @ Boston College
 
 ### What I'm into
+- **Machine Learning** — Particularly interested in Multi-Agent Systems and Object Detection
 - **Biomedical Devices** — I love working with wearables, and developing the software layer that makes the hardware useful
 - **Agricultural Tech** — applying ML + computer vision to real agricultural problems
 
