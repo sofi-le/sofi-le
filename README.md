@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sofi!
 
-<!--
-**sofi-le/sofi-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS + Human-Centered Engineering @ Boston College
 
-Here are some ideas to get you started:
+### What I'm into
+- **Biomedical Devices** — I love working with wearables, and developing the software layer that makes the hardware useful
+- **Agricultural Tech** — applying ML + computer vision to real agricultural problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Technical Skills:
+`Python` `TypeScript` `React / Next.js` `FastAPI` `YOLO` `Supabase`
+
+
+### See more:
+- Portfolio → [sofile.me](https://sofile.me)
+- LinkedIn → [linkedin.com/in/sofile](https://linkedin.com/in/sofile)
