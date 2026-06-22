@@ -9,7 +9,7 @@ CS + Human-Centered Engineering @ Boston College
 
 
 ### Technical Skills:
-`Python` `TypeScript` `React / Next.js` `FastAPI` `YOLO` `Supabase`
+`Python` `TypeScript` `React / Next.js` `Java` `FastAPI` `YOLO` `Supabase` 
 
 
 ### See more:
