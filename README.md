@@ -3,13 +3,13 @@
 CS + Human-Centered Engineering @ Boston College
 
 ### What I'm into
-- **Machine Learning** — Particularly interested in Multi-Agent Systems and Object Detection
-- **Biomedical Devices** — I love working with wearables, and developing the software layer that makes the hardware useful
-- **Agricultural Tech** — applying ML + computer vision to real agricultural problems
+- **Machine Learning**: Particularly interested in Multi-Agent Systems and Object Detection
+- **Biomedical Devices**: I love working with wearables, and developing the software layer that makes the hardware useful
+- **Agricultural Tech**: applying ML + computer vision to real agricultural problems
 
 
 ### Technical Skills:
-`Python` `TypeScript` `React / Next.js` `Java` `FastAPI` `YOLO` `Supabase` 
+`Python` `TypeScript` `React / Next.js` `Java` `FastAPI` `YOLO` `SQL` 
 
 
 ### See more:
